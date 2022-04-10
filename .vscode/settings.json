@@ -1,0 +1,14 @@
+{
+	"editor.dragAndDrop": false,
+	"editor.minimap.maxColumn": 80,
+	"editor.minimap.scale": 2,
+	"editor.renderWhitespace": "all",
+	"scm.alwaysShowRepositories": true,
+	"scm.defaultViewMode": "list",
+	"files.trimTrailingWhitespace": true,
+	//"files.associations": {},
+	"files.defaultLanguage": "php",
+	"files.eol": "\n",
+	"git.autofetch": true,
+	"git.repositoryScanMaxDepth": -1
+}
